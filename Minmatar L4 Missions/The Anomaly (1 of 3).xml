@@ -1,15 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<mission>
+<?xml version="1.0" encoding="utf-8"?>
+<missions>
   <pockets>
     <pocket id="0">
       <actions>
-        <action name="ClearPocket" />
         <action name="Loot">
-          <parameter name="target" value="Life Pod" />
+          <parameter name="Target" value="Life Pod" />
           <parameter name="Item" value="Oura Madusaari" />
         </action>
         <action name="Activate">
-          <parameter name="target" value="Acceleration Gate" />
+          <parameter name="Target" value="Acceleration Gate" />
         </action>
       </actions>
     </pocket>
@@ -17,14 +16,14 @@
       <damagetype>Kinetic</damagetype>
       <actions>
         <action name="Kill">
-          <parameter name="target" value="Pressure Silo Debris" />
-        </action
+          <parameter name="Target" value="Pressure Silo Debris" />
+        </action>
         <action name="Loot">
-          <parameter name="target" value="Cargo Container" />
+          <parameter name="Target" value="Cargo Container" />
           <parameter name="Item" value="Fajah Ateshi" />
         </action>
         <action name="Done" />
       </actions>
     </pocket>
   </pockets>
-</mission>
+</missions>

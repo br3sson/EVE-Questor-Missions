@@ -18,7 +18,7 @@
       <actions>
         <action name="Kill">
           <parameter name="target" value="Pressure Silo Debris" />
-        </action
+        </action>
         <action name="Loot">
           <parameter name="target" value="Cargo Container" />
           <parameter name="Item" value="Fajah Ateshi" />

@@ -2,12 +2,10 @@
 <mission>
   <pockets>
     <pocket id="0">
-      <damagetype>Explosive</damagetype>
-    </pocket>
-    <pocket id="5">
+      <damagetype>Kinetic</damagetype>
       <actions>
-        <action name="WaitUntilTargeted">
-          <parameter name="Timeout" value="15" />
+        <action name="Kill">
+          <parameter name="Target" value="EoM Hydra" />
         </action>
         <action name="ClearPocket" />
         <action name="Done" />

@@ -9,7 +9,7 @@
       </actions>
     </pocket>
     <pocket id="1">
-      <damagetype>Explosive</damagetype>
+      <damagetype>EM</damagetype>
       <actions>
 	    <action name="ClearPocket" />
         <action name="Kill">

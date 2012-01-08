@@ -5,7 +5,7 @@
     <pocket id="0">
       <damagetype>Explosive</damagetype>
     </pocket>
-    <pocket id="5">
+    <pocket id="6">
       <damagetype>Explosive</damagetype>
       <actions>
         <action name="ClearPocket" />

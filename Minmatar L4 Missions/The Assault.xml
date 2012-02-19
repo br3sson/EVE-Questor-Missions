@@ -9,7 +9,7 @@
       </actions>
     </pocket>
     <pocket id="1">
-      <damagetype>EM</damagetype>
+      <damagetype>Thermal</damagetype>
       <actions>
         <action name="ClearPocket" />
         <action name="Activate">
@@ -18,7 +18,7 @@
       </actions>
     </pocket>
     <pocket id="2">
-      <damagetype>EM</damagetype>
+      <damagetype>Thermal</damagetype>
       <actions>
         <action name="ClearPocket" />
         <action name="Activate">
@@ -27,7 +27,7 @@
       </actions>
     </pocket>
     <pocket id="3">
-      <damagetype>EM</damagetype>
+      <damagetype>Thermal</damagetype>
       <actions>
         <action name="ClearPocket" />
         <action name="Done" />
